@@ -1,0 +1,2 @@
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space InvadersContent\obj\x86\Debug\Space InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space InvadersContent\obj\x86\Debug\Space InvadersContent.contentprojResolveAssemblyReference.cache

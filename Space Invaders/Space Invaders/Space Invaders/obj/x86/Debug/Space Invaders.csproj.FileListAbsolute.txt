@@ -1,0 +1,14 @@
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Spaceship.xnb
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.exe
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.pdb
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+\\cluinstfs05.cmsdomain.cms.k12.nc.us\7508\home\students\8360875\documents\visual studio 2010\Projects\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Content\Spaceship.xnb
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.exe
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\bin\x86\Debug\Space Invaders.pdb
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+E:\Computer Programming II Honors\Space Invaders\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb
